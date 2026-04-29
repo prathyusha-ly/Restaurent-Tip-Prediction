@@ -27,8 +27,10 @@ A predictive model built in Excel to estimate tip amounts based on customer and 
 
 - Visualization:
 <img width="761" height="272" alt="Predicting Restaurent bill" src="https://github.com/user-attachments/assets/d3ac3c5b-6c24-4a94-8582-b8eb6c610f03" />
-## File
+## Project File
 Download the Excel file from this repository.
+<a href= "https://github.com/prathyusha-ly/Restaurent-Tip-Prediction/blob/main/Restaurent%20Tip%20Prediction.xlsx">Data Set</a>
+
 
 
 
