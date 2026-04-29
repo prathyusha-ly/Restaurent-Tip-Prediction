@@ -3,9 +3,9 @@ Built a predictive model in Microsoft Excel to estimate customer tip amounts bas
 # 📌Overview
 A predictive model built in Excel to estimate tip amounts based on customer and billing data.
 # Objectives
-Analyze factors affecting tips.
-Build a prediction model.
-Evaluate model accuracy using RMSE.
+- Analyze factors affecting tips.
+- Build a prediction model.
+- Evaluate model accuracy using RMSE.
  
 
 
