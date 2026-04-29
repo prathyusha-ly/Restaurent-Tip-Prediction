@@ -6,6 +6,28 @@ A predictive model built in Excel to estimate tip amounts based on customer and 
 - Analyze factors affecting tips.
 - Build a prediction model.
 - Evaluate model accuracy using RMSE.
+# Tools Used
+- Microsoft Excel.
+- Data Analysis Toolpak.
+- Regression.
+# 📊Features
+- Data cleaning and preprocessing.
+- Categorical encoding using IF formulas.
+- Tip prediction model.
+## 📈Key Insights
+- Tip amount strongly depends on total bill.
+- Certain customer behaviors influence tipping.
+
+# 📏Model Evaluation
+- RMSE calculated to measure prediction accuracy.
+# Preview
+- Regression Output:
+<img width="606" height="286" alt="Out put prediction" src="https://github.com/user-attachments/assets/60fd80dd-abed-4647-9ce7-d176bda3c30a" />
+
+- Visualization:
+<img width="907" height="346" alt="Predicting Restaurent bill" src="https://github.com/user-attachments/assets/f8f7c8b7-9a20-41d6-9dc1-97cefeb60473" />
+
+ 
  
 
 
