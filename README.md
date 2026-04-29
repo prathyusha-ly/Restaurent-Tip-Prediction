@@ -22,10 +22,12 @@ A predictive model built in Excel to estimate tip amounts based on customer and 
 - RMSE calculated to measure prediction accuracy.
 # Preview
 - Regression Output:
-<img width="606" height="286" alt="Out put prediction" src="https://github.com/user-attachments/assets/60fd80dd-abed-4647-9ce7-d176bda3c30a" />
+<img width="639" height="296" alt="Out put prediction" src="https://github.com/user-attachments/assets/9ac50ef5-fba1-4c6c-b862-ff2fbb8421de" />
+
 
 - Visualization:
-<img width="907" height="346" alt="Predicting Restaurent bill" src="https://github.com/user-attachments/assets/f8f7c8b7-9a20-41d6-9dc1-97cefeb60473" />
+<img width="761" height="272" alt="Predicting Restaurent bill" src="https://github.com/user-attachments/assets/d3ac3c5b-6c24-4a94-8582-b8eb6c610f03" />
+
 
  
  
